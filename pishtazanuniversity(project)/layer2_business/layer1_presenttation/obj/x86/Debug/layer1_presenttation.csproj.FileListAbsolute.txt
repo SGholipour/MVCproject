@@ -1,0 +1,28 @@
+c:\users\arsa\documents\visual studio 2010\Projects\layer1_presenttation\layer1_presenttation\bin\Debug\layer1_presenttation.exe
+c:\users\arsa\documents\visual studio 2010\Projects\layer1_presenttation\layer1_presenttation\bin\Debug\layer1_presenttation.pdb
+c:\users\arsa\documents\visual studio 2010\Projects\layer1_presenttation\layer1_presenttation\obj\x86\Debug\layer1_presenttation.Properties.Resources.resources
+c:\users\arsa\documents\visual studio 2010\Projects\layer1_presenttation\layer1_presenttation\obj\x86\Debug\layer1_presenttation.csproj.GenerateResource.Cache
+c:\users\arsa\documents\visual studio 2010\Projects\layer1_presenttation\layer1_presenttation\obj\x86\Debug\layer1_presenttation.exe
+c:\users\arsa\documents\visual studio 2010\Projects\layer1_presenttation\layer1_presenttation\obj\x86\Debug\layer1_presenttation.pdb
+C:\Users\arsa\documents\visual studio 2010\Projects\layer1_presenttation\layer1_presenttation\obj\x86\Debug\layer1_presenttation.csprojResolveAssemblyReference.cache
+C:\Users\arsa\documents\visual studio 2010\Projects\layer1_presenttation\layer1_presenttation\bin\Debug\layer2_business.dll
+C:\Users\arsa\documents\visual studio 2010\Projects\layer1_presenttation\layer1_presenttation\bin\Debug\layer3_connectionclass.dll
+C:\Users\arsa\documents\visual studio 2010\Projects\layer1_presenttation\layer1_presenttation\bin\Debug\layer2_business.pdb
+C:\Users\arsa\documents\visual studio 2010\Projects\layer1_presenttation\layer1_presenttation\bin\Debug\layer3_connectionclass.pdb
+C:\Users\arsa\documents\visual studio 2010\Projects\layer1_presenttation\layer1_presenttation\obj\x86\Debug\layer1_presenttation.lessons.resources
+C:\Users\arsa\documents\visual studio 2010\Projects\layer1_presenttation\layer1_presenttation\obj\x86\Debug\layer1_presenttation.student.resources
+C:\Users\arsa\documents\visual studio 2010\Projects\layer1_presenttation\layer1_presenttation\obj\x86\Debug\layer1_presenttation.login.resources
+C:\Users\arsa\documents\visual studio 2010\Projects\layer1_presenttation\layer1_presenttation\obj\x86\Debug\layer1_presenttation.splash.resources
+C:\Users\arsa\documents\visual studio 2010\Projects\layer1_presenttation\layer1_presenttation\bin\Debug\PopupControl.dll
+C:\Users\arsa\documents\visual studio 2010\Projects\layer1_presenttation\layer1_presenttation\bin\Debug\PersianDate.pdb
+C:\Users\arsa\documents\visual studio 2010\Projects\layer1_presenttation\layer1_presenttation\bin\Debug\PopupControl.xml
+C:\Users\arsa\documents\visual studio 2010\Projects\layer1_presenttation\layer1_presenttation\bin\Debug\layer1_presenttation.exe.config
+C:\Users\arsa\Desktop\pishtazanuniversity(project)\layer1_presenttation\bin\Debug\layer1_presenttation.exe.config
+C:\Users\arsa\Desktop\pishtazanuniversity(project)\layer1_presenttation\obj\x86\Debug\layer1_presenttation.exe
+C:\Users\arsa\Desktop\pishtazanuniversity(project)\layer1_presenttation\obj\x86\Debug\layer1_presenttation.pdb
+C:\Users\arsa\Desktop\pishtazanuniversity(project)\layer1_presenttation\obj\x86\Debug\layer1_presenttation.csprojResolveAssemblyReference.cache
+C:\Users\arsa\Desktop\pishtazanuniversity(project)\layer1_presenttation\obj\x86\Debug\layer1_presenttation.login.resources
+C:\Users\arsa\Desktop\pishtazanuniversity(project)\layer1_presenttation\obj\x86\Debug\layer1_presenttation.splash.resources
+C:\Users\arsa\Desktop\pishtazanuniversity(project)\layer1_presenttation\obj\x86\Debug\layer1_presenttation.student.resources
+C:\Users\arsa\Desktop\pishtazanuniversity(project)\layer1_presenttation\obj\x86\Debug\layer1_presenttation.lessons.resources
+C:\Users\arsa\Desktop\pishtazanuniversity(project)\layer1_presenttation\obj\x86\Debug\layer1_presenttation.csproj.GenerateResource.Cache

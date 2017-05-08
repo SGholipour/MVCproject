@@ -1,0 +1,7 @@
+c:\users\arsa\documents\visual studio 2010\Projects\layer1_presenttation\layer2_business\bin\Debug\layer2_business.dll
+c:\users\arsa\documents\visual studio 2010\Projects\layer1_presenttation\layer2_business\bin\Debug\layer2_business.pdb
+c:\users\arsa\documents\visual studio 2010\Projects\layer1_presenttation\layer2_business\obj\Debug\layer2_business.dll
+c:\users\arsa\documents\visual studio 2010\Projects\layer1_presenttation\layer2_business\obj\Debug\layer2_business.pdb
+C:\Users\arsa\documents\visual studio 2010\Projects\layer1_presenttation\layer2_business\bin\Debug\layer3_connectionclass.dll
+C:\Users\arsa\documents\visual studio 2010\Projects\layer1_presenttation\layer2_business\bin\Debug\layer3_connectionclass.pdb
+C:\Users\arsa\documents\visual studio 2010\Projects\layer1_presenttation\layer2_business\obj\Debug\layer2_business.csprojResolveAssemblyReference.cache
